@@ -15,3 +15,7 @@ See _LoanCalculatorTest_ and _LoanCalculatorRepeatedTest_.
 Example with Arquillian (Jakarta EE 9), based on https://github.com/hantsy/jakartaee9-starter-boilerplate.
 
 
+## Directory atbash
+
+Example using the Atbash Jakarta EE Integration testing framework.  See https://github.com/atbashEE/jakarta-integration-testing for the repo and documentation is at https://github.com/atbashEE/jakarta-integration-testing/blob/main/integration.pdf
+
